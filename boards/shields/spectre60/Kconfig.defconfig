@@ -1,0 +1,6 @@
+if SHIELD_SPECTRE60
+
+config ZMK_KEYBOARD_NAME
+    default "spectre60"
+
+endif
